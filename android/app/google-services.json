@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "20931345732",
+    "project_id": "chatn-b9768",
+    "storage_bucket": "chatn-b9768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20931345732:android:46a33294aed6e076236b11",
+        "android_client_info": {
+          "package_name": "com.chatn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20931345732-7mpmofbcvlcoia58ckmh4hbu7akfmgnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "20931345732-kqdi2esdnoc29u50h8ipnraij73u0rf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXg0WtAnHMwM_1TY7cr2usWqHN2apz1zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20931345732-kqdi2esdnoc29u50h8ipnraij73u0rf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
